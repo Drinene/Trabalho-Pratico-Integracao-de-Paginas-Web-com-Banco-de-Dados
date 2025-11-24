@@ -14,7 +14,7 @@ import { ControleLivrosService } from '../controle-livros.service';
   templateUrl: './livro-dados.component.html',
   styleUrls: ['./livro-dados.component.css']
 })
-export class LivroDadosComponent implements OnInit { // ← CERTIFIQUE-SE que exporta a classe
+export class LivroDadosComponent implements OnInit { 
   public livro: Livro = new Livro(0, 0, '', '', []);
   public autoresForm: string = '';
   public editoras: Editora[] = [];
