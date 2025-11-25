@@ -1,5 +1,6 @@
 #Arquitetura
-Trabalho-Pratico--Integracao-de-Paginas-Web-com-Banco-de-Dados/
+Trabalho-Pratico--Integracao-de-Paginas-Web-com-Banco-de-Dados
+
 ├── 📖 livro-servidor/          # Backend API (Express + MongoDB)
 ├── ⚛️ clientes/
 │   ├── livros-react/          # Frontend React
