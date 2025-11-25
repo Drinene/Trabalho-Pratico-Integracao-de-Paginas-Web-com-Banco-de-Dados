@@ -10,14 +10,14 @@ O objetivo é criar uma aplicação completa composta por:
 
 Cada interface consome a mesma API, permitindo comparar arquiteturas diferentes utilizando o mesmo backend.
 
----
 📦 Trabalho-Pratico-Integracao-de-Paginas-Web-com-Banco-de-Dados
-├── 📖 livro-servidor/ # Backend API (Express + MongoDB)
+├── 📖 livro-servidor/          # Backend API (Express + MongoDB)
 ├── ⚛️ clientes/
-│ ├── 📘 livros-react/ # Frontend React
-│ ├── 🌐 livros-next/ # Frontend Next.js
-│ └── 🅰️ livros-angular/ # Frontend Angular
+│   ├── 📘 livros-react/        # Frontend React
+│   ├── 🌐 livros-next/         # Frontend Next.js
+│   └── 🅰️ livros-angular/      # Frontend Angular
 └── 📋 README.md
+
 
 #Tecnologias
 Backend
